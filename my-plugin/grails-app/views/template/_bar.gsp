@@ -1,0 +1,1 @@
+Hello world, from my-plugin/grails-app/views/template/_bar.gsp
